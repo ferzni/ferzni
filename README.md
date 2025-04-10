@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Fernanda Aragão
 =======================================================================================================================================
 
-Game Dev | Back-end Dev
+Game Developer
 -----------------------
 
 I've been learned to code for 3 years after switching career path to Systems Analysis and Development. I started with C# to program games, but I have really found a passion for backend development
