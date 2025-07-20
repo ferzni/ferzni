@@ -1,25 +1,43 @@
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Olá, eu sou Fernanda Aragão! 👩🏻‍💻✨
 =======================================================================================================================================
 
-Desenvolvedora Back-end | Entusiasta em Cibersegurança
------------------------
+Sou desenvolvedora back-end com enorme paixão por análise de sistemas, desenvolvimento de software e cibersegurança. Valorizo o aprendizado constante e, por isso, estou buscando aprimorar ainda mais meus conhecimentos em programação por meio de projetos práticos e estudos que vão além dos códigos.
 
-Eu sou Fernanda Aragão, tenho uma paixão enorme por tecnologia e principalmente em desenvolvimento back-end e cibersegurança. No meu dia a dia, busco aprimorar os meus conhecimentos com projetos que enriqueçam o meu portfólio; e nos tempos livres, desenvolvo jogos.
+###
 
+<h2 align="left">🔎 Sobre mim</h2>
 
-### Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+###
+* 💻 Graduanda em Análise e Desenvolvimento de Sistemas
+* 🕹 Técnica em Programação de Jogos Digitais
+* 🌐 Entusiasta em cibersegurança; estudando sobre redes, sistemas operacionais e análise de vulnerabilidades
 
+###
 
-### Badges
+<h2 align="left"> 🛠 Tecnologias e Ferramentas</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+<h2 align="left">📊 Estatísticas</h2>
+
+###
 <a href="http://www.github.com/ferzni"><img src="https://github-readme-stats.vercel.app/api?username=ferzni&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ferzni's GitHub stats" /></a> <a href="http://www.github.com/ferzni"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ferzni&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<h2 align="center">Contato</h2>
+<h6 align="center">Estou aberta para compartilhar conhecimentos. Fique à vontade para entrar em contato!</h6>
 
-### Estou aberta para compartilhar conhecimentos. Fique à vontade para entrar em contato via e-mail ou linkedin!
-### Contato
-<p align="left">
+###
+<div align="center">
   <a href="https://www.github.com/ferzni" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -37,5 +55,5 @@ Eu sou Fernanda Aragão, tenho uma paixão enorme por tecnologia e principalment
   <a href="mailto:fernandaaragaodev@gmail.com" target="_blank" rel="noreferrer" style="margin-left: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="32" height="32" />
   </a>
-</p>
+</div>
 
