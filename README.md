@@ -31,14 +31,14 @@ Sou desenvolvedora back-end com enorme paixão por análise de sistemas, desenvo
 <h2 align="left">📊 Estatísticas</h2>
 
 ###
-<a href="http://www.github.com/ferzni"><img src="https://github-readme-stats.vercel.app/api?username=ferzni&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ferzni's GitHub stats" /></a> <a href="http://www.github.com/ferzni"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ferzni&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/fernandaaragaodev"><img src="https://github-readme-stats.vercel.app/api?username=fernandaaragaodev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fernandaaragaodev's GitHub stats" /></a> <a href="http://www.github.com/fernandaaragaodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandaaragaodev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <h2 align="center">Contato</h2>
 <h6 align="center">Estou aberta para compartilhar conhecimentos. Fique à vontade para entrar em contato!</h6>
 
 ###
 <div align="center">
-  <a href="https://www.github.com/ferzni" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/fernandaaragaodev" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
